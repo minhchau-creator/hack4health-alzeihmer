@@ -1,0 +1,6 @@
+mne
+numpy
+scipy
+pandas
+scikit-learn
+antropy
